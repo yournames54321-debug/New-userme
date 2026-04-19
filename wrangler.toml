@@ -1,4 +1,3 @@
-# wrangler.toml
 name = "coca"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
